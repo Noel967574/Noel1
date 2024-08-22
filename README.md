@@ -1,4 +1,5 @@
-# # Hi there, I'm [Your Name]! 👋
+# # Hi there, I'm noel
+! 👋
 
 ![Banner Image](your_banner_image_url_here)
 
